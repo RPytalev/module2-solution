@@ -1,7 +1,6 @@
 /* Base styles */
 * {
     box-sizing: border-box;
-    display: inline-block;
     margin: 0;
     padding: 0;
     font-family: 'Courier New', Courier, monospace;
@@ -31,6 +30,7 @@ div {
 }
 
 p {
+    clear: both;
     padding: 1% 1% 0 3%;
 }
 
